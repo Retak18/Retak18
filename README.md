@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="left">Hi! Welcome to my Github, i'm Tarek , a developer evolving every day, don't hesitate to click on my folio for see more than the code here</p>
+<p align="left"> Welcome to my Github, i'm Tarek , a passionate developer evolving every day, don't hesitate to click on my folio for see more than the code here</p>
 
 ###
 ## My push statistics
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
