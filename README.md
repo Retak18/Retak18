@@ -58,7 +58,7 @@
 ###
 
 ## Sorry i love it!😄 i had to put it here ^^
-<img src="https://raw.githubusercontent.com/retak18/retak18/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/retak18/retak18/output/ocean.gif" alt="Snake animation" />
 
 ###
 
