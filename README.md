@@ -2,14 +2,14 @@
 <p align="left">Hi! Welcome to my Github, i'm Tarek , a developer evolving every day, don't hesitate to click on my folio for see more than the code here</p>
 
 ###
-
+## My push statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=retak18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=retak18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+## All the languages i use and also the frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -54,19 +54,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
+
 ###
 
-<img src="https://raw.githubusercontent.com/retak18/retak18/output/snake.svg" alt="Snake animation" />
+## Sorry i love it!😄 i had to put it here ^^
+<img src="https://raw.githubusercontent.com/retak18/retak18/output/github-snake-dark.svg" alt="Snake animation" />
+
+###
+
+<div align = "center">
+<a target="_blank" href="https://tak-expo.vercel.app">
+<img align="center" height="200"
+src="https://tak-expo.vercel.app/Black_hole-folio.webp"/>
+</a>
+    
+</div>
 
 ###
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp4c3ZpZDBqc245Z2lmeHpxb214am0ydzg5YmV4Zjcyb2ppMHEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
 
-###
+
 
 <img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEyYjRwbG9qNnl3eHYzNHd5d3o0N3F4Y3hhNWZnOXNkbGR6b3VpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 
-###
+
 <!--
 **Retak18/Retak18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
