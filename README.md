@@ -146,6 +146,128 @@
   </tbody>
 </table>
 </div>
+
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<h3 align="center"> AI Tools & Prompt Engineering</h3>
+<div align="center">
+ <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="6" align="center" style="color: white;">AI Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
+      </td>
+       <td align="center" style="border: none;">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude 
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
+      </td>
+    </tr>
+  </tbody>
+</table>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://trello.com/fr" style="color: white;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" alt="Trello logo"  />
+        </a>
+        <br>Trello
+      </td>
+      <td align="center" style="border: none;">
+          <a href="https://www.canva.com" style="color: white;" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva logo"  />
+        </a>
+        <br>Canva
+      </td>
+         <td align="center" style="border: none;">
+          <a href="https://www.figma.com" style="color: white;" >
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
+          </a>
+        <br>Figma
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+###
+
+## Sorry i love it!😄 i had to put it here ^^
+
+<div align = "center">
+<img src="https://raw.githubusercontent.com/retak18/retak18/output/ocean.gif" alt="Snake animation" />
+</div>
+
+###
+
+<div align = "center" >
+  <table style=" display: inline">
+      <td>
+        <a target="_blank" href="https://tak-expo.vercel.app">
+          <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp4c3ZpZDBqc245Z2lmeHpxb214am0ydzg5YmV4Zjcyb2ppMHEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
+        </a>
+      </td>
+      <td>
+  <a target="_blank" href="https://tak-expo.vercel.app">
+    <img align="center" height="200"
+      src="https://tak-expo.vercel.app/Black_hole-folio.webp"/>
+  </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://tak-expo.vercel.app">
+          <img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEyYjRwbG9qNnl3eHYzNHd5d3o0N3F4Y3hhNWZnOXNkbGR6b3VpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+        </a>
+      </td>
+  </table>
+     ### click on the picture or the gif for go on my folio ###
+</div>
+
+<!--
+**Retak18/Retak18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 <h3 align="center">Cloud Computing & DevOps</h3>
 <!--
@@ -175,24 +297,11 @@
 </table>
 </div> 
 -->
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> 
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
+        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
+      </td>-->
+      
 <!--
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -245,107 +354,4 @@
   </tbody>
  </table>
 </div>
--->
-
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
-<div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude 
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> 
-      <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
-      </td>-->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
-      </td>
-    </tr>
-  </tbody>
-</table>
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://trello.com/fr" style="color: white;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="50" height="50" alt="Trello logo"  />
-        </a>
-        <br>Trello
-      </td>
-      <td align="center" style="border: none;">
-          <a href="https://www.canva.com" style="color: white;" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva logo"  />
-        </a>
-        <br>Canva
-      </td>
-         <td align="center" style="border: none;">
-          <a href="https://www.figma.com" style="color: white;" >
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50"/>
-          </a>
-        <br>Figma
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-###
-
-## Sorry i love it!😄 i had to put it here ^^
-<div align = "center">
-<img src="https://raw.githubusercontent.com/retak18/retak18/output/ocean.gif" alt="Snake animation" />
-</div>
-
-###
-<div align = "center" >
-  <table>
-      <td>
-
-  <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp4c3ZpZDBqc245Z2lmeHpxb214am0ydzg5YmV4Zjcyb2ppMHEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
-      </td>
-      <td>
-      
-  <a target="_blank" href="https://tak-expo.vercel.app">
-    <img align="center" height="200"
-      src="https://tak-expo.vercel.app/Black_hole-folio.webp"/>
-  </a>
-      </td>
-      <td>
-  <img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEyYjRwbG9qNnl3eHYzNHd5d3o0N3F4Y3hhNWZnOXNkbGR6b3VpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
-      </td>
-     
-  </table>
-</div>
-
-<!--
-**Retak18/Retak18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
