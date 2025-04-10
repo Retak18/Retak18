@@ -235,18 +235,18 @@
 <div align = "center" >
   <table style=" display: inline">
       <td>
-        <a target="_blank" href="https://tak-expo.vercel.app">
+        <a target="_blank" href="https://tak-folio.vercel.app">
           <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp4c3ZpZDBqc245Z2lmeHpxb214am0ydzg5YmV4Zjcyb2ppMHEzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"  />
         </a>
       </td>
       <td>
-  <a target="_blank" href="https://tak-expo.vercel.app">
+  <a target="_blank" href="https://tak-folio.vercel.app">
     <img align="center" height="200"
       src="https://tak-expo.vercel.app/Black_hole-folio.webp"/>
   </a>
       </td>
       <td>
-        <a target="_blank" href="https://tak-expo.vercel.app">
+        <a target="_blank" href="https://tak-folio.vercel.app">
           <img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemEyYjRwbG9qNnl3eHYzNHd5d3o0N3F4Y3hhNWZnOXNkbGR6b3VpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
         </a>
       </td>
