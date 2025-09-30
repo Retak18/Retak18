@@ -190,7 +190,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="110" height="90" alt="Meta Llama"/><br>Meta Llama
       </td>
       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="60" height="60" alt="Meta Llama"/><br>Perplexity AI
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perplexity-ai-icon.png" width="60" height="60" alt="Perplexity"/><br>Perplexity AI
       </td>
     </tr>
   </tbody>
@@ -214,6 +214,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" alt="Canva logo"  />
         </a>
         <br>Canva
+      </td>
+      <td align="center" style="border: none;">
+          <a href="https://www.atlassian.com" style="color: white;" >
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/atlassian-jira-icon.png" width="50" height="50" alt="Jira logo"  />
+        </a>
+        <br>Jira
       </td>
          <td align="center" style="border: none;">
           <a href="https://www.figma.com" style="color: white;" >
